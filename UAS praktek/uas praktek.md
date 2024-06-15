@@ -20,7 +20,8 @@ Data yang disimpan pada kategori adalah nama kategori yang berupa sebuah text pa
 Selain menggunakan kategori sebuah berita juga dapat dikelompokkan berdasarkan sebuah tag/topik dimana sebuah berita boleh mempunyai banyak tag dan sebuah tag dapat dipasang pada lebih dari satu berita. Data yang disimpan pada tag adalah isi tag yang panjangnya maksimal 20 karakter dan id tag yang unik.
 Untuk mempermudah interaksi antara pembaca dan penulis di sistem berita ini setiap berita yang dibuat dapat diberi komentar sebuah berita dapat dikomentari lebih dari satu kali oleh pembaca data yang dicatat pada komentar adalah komentar id komentar id ini bersifat unik kemudian isi komentar berupa text panjang maksimal 255 karakter nama pemberi komentar dan email pemberi komentar email harus dalam format email yang benar serta dicatat juga tanggal komentarnya.
 
-![2](https://github.com/nadintaaalwaz/nadintrylearnphp/assets/160230442/d6ebe927-e9bb-432d-b07c-a079e4b5ae68)
+![2 1](https://github.com/nadintaaalwaz/nadintrylearnphp/assets/160230442/8179baf1-332a-43bb-bd1b-7f17e76d4652)
+
 
 
 __Soal no 3___
@@ -32,5 +33,6 @@ Sebuah kota terkelompokkan dalam sebuah negara dimana sebuah negara memiliki beb
 sebuah kota dapat memiliki banyak prakiraan cuaca, dimana prakiraan cuaca ini disimpan dengan data prakiraan id yang unik, tanggal prakiraan cuaca, temperatur terendah dan temperatur tertinggi.
 Setiap prakiraan cuaca memiliki maksimal satu kondisi cuaca dimana kondisi cuaca ini bersifat dinamis dapat ditambahkan secara mandiri oleh admin aplikasi, kondisi cuaca memiliki kondisi id yang bersifat unik dan nama kondisi yang berupa sebuah text dengan panjang maksimal 30 karakter. Kondisi cuaca ini dapat dipakai oleh lebih dari satu prakiraan cuaca.
 
-![3coba](https://github.com/nadintaaalwaz/nadintrylearnphp/assets/160230442/a6e426c3-f1b7-459d-8ffb-9f6eda7f9834)
+![3](https://github.com/nadintaaalwaz/nadintrylearnphp/assets/160230442/667fd938-0d72-46b0-a628-463e79ce6021)
+
 
